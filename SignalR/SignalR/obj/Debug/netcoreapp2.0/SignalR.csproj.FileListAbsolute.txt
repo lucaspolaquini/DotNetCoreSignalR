@@ -1,0 +1,22 @@
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.csprojResolveAssemblyReference.cache
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.AssemblyInfo.cs
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.deps.json
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.runtimeconfig.json
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.runtimeconfig.dev.json
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.dll
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.pdb
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.dll
+C:\Users\logonrm\documents\visual studio 2017\Projects\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.pdb
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.deps.json
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.runtimeconfig.json
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.runtimeconfig.dev.json
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.dll
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\bin\Debug\netcoreapp2.0\SignalR.pdb
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.csprojResolveAssemblyReference.cache
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.AssemblyInfo.cs
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.dll
+C:\Users\logonrm\Source\Repos\DotNetCoreSignalR\SignalR\SignalR\obj\Debug\netcoreapp2.0\SignalR.pdb
