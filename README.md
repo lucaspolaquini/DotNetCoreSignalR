@@ -2,6 +2,6 @@
 
 Simples projeto feito com .NetCore 2.0 usando SignalR
 
-#Descrição
+# Descrição
 
 Chat Básico Exibindo uma mensagem no Console.Log e Um Chat Completo.
